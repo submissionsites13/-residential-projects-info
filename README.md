@@ -1,2 +1,3 @@
-# -residential-projects-info
-Explore detailed guides and updates on ongoing residential projects. This repository offers comprehensive information to help homebuyers and investors find the best residential projects near them. Visit Avadh Projects for more real estate listings and expert advice.
+ # Residential Projects Guide  
+This repository contains detailed guides and info about ongoing residential projects.  
+Visit [Avadh Projects](https://avadhprojects.com/on-going-projects/) for the latest listings and updates.  
